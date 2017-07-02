@@ -5,6 +5,7 @@ a_list = [1, 2, 3]
 
 for i in a_list:
     print(i)
+    print '-----'
 
 def print_hello(name):
     print('hello'+name)
